@@ -1,1 +1,4 @@
-The first commit to the file. This line will be commited
+The first commit to the file. This line will be commited TO THE REPOSITORY.
+
+This changes will be for the next commit
+
